@@ -18,10 +18,10 @@ I have been responsible for overseeing project planning, technical architecture,
 |--------|--------|-------------|
 | [samantaexport.com](https://samantaexport.com/) | Export | Corporate website for Samanta Export, an international trading company. |
 | [samantaexport.com/horizon](https://samantaexport.com/horizon) | Admin CMS | Custom-built admin panel (Horizon CMS) to manage the Samanta Export website. |
-| [cbres.org.in](http://cbres.org.in) | Education | School website with CMS and admission inquiry system. |
+| [cbres.org.in](http://cbres.org.in) | Educational Society | School website with CMS and admission inquiry system. |
 | [anwesanmission.org.in](https://anwesanmission.org.in/) | NGO | NGO website highlighting social initiatives, activities, and donation system. |
 | [uce.co.in](https://uce.co.in/) | Educational Trust | Website for UCE group focusing on educational empowerment. |
-| [upasanabdn.org.in](https://www.upasanabdn.org.in/) | Spiritual | Community-based spiritual and cultural organization site. |
+| [upasanabdn.org.in](https://www.upasanabdn.org.in/) | Education |College Website. |
 | [chattaptti.org](https://chattaptti.org/) | NGO | Women’s welfare NGO website with detailed event updates and donation modules. |
 | [sevacabs.in](http://sevacabs.in/) | Cab Service | App-based cab booking system with dynamic pricing and ride management. |
 | [uims.org.in](https://uims.org.in/) | Education | Management system for a university/institutional portal. |
